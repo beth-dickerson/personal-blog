@@ -1,6 +1,10 @@
 backend:
+<<<<<<< HEAD
   name: github
   repo: beth-dickerson/gatsby-personal-starter-blog
+=======
+  name: test-repo
+>>>>>>> 112045cbe30588fea99b2873b9fbf867c99be296
 
 media_folder: static/assets
 public_folder: assets
