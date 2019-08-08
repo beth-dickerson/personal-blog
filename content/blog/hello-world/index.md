@@ -1,24 +1,20 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: My First Post!
+date: 2019-08-07
 ---
 
-This is my first post on my new fake blog! How exciting!
+## What Does Your Handwriting Say About You?
 
-I'm sure I'll write a lot more interesting things in the future.
+I just bought my first Rocketbook notebook (for myself) today 
+and this is really exciting. It sent me on a deep dive into what 
+my handwriting says about me. So, in case you were asking yourself 
+the same question, you may want to [check this out for yourself](https://www.pens.com/handwriting-infographic/?utm_source=contentmarketing&utm_medium=embed&utm_campaign=Handwriting%20Infographic).
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+> Handwriting analysis (also known as graphology) can even be used for 
+> detecting lies and revealing possible health ailments.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+![Fountain Pen](./fountain-pen.jpg)
+###### Photo by Kelly Sikkema on Unsplash
 
 ```js
 function helloWorld() {
