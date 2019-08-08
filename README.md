@@ -1,19 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-<<<<<<< HEAD
     <img alt="Beth" src="/content/assets/profile-pic.jpg" width="60" />
   </a>
 </p>
 <h1 align="center">
   Beth's first personal blog foray
-=======
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's personal blog starter
->>>>>>> 112045cbe30588fea99b2873b9fbf867c99be296
 </h1>
 
 <img alt="screesnhot" src="./screenshot.png">
