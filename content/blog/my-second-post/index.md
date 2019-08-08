@@ -1,13 +1,17 @@
 ---
 title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+date: 2019-08-08
+description: I'm just writing a little about some frozen yogurt I made
 ---
 
-Wow! I love blogging so much already.
+## 👑 Fro-Yo Queen 👑
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
+I recently got into making my own Greek-style yogurt at home. I
+think it's great and I'm really entertained by making regular use
+of my Instant Pot. Not satisfied with only having yogurt, I deci-
+ded I needed to take it to the next level..... the dessert level.
+So, I used ([this recipe I found](https://www.thekitchn.com/how-to-make-frozen-yogurt-recipe-223055))
+to start making my own frozen yogurt. I'm proud on top of proud.
+Here's a real cute pic of the first serving.
 
-Yeah, I didn't either.
+![Frozen Yogurt](./froyo.jpg)
